@@ -11,7 +11,7 @@
     "https://huggingface.co/Kijai/MelBandRoFormer_comfy/resolve/main/MelBandRoformer_fp32.safetensors"
   ],
   "text_encoders": [
-    "https://huggingface.co/GitMylo/LTX-2-comfy_gemma_fp8_e4m3fn/resolve/main/gemma_3_12B_it_nvfp4_uncalibrated.safetensors"
+    "https://huggingface.co/OzzyGT/LTX-2-bnb-8bit-text-encoder/resolve/main/model.safetensors"
   ],
   "loras": [
     "https://huggingface.co/Lightricks/LTX-2/resolve/main/ltx-2-19b-distilled-lora-384.safetensors",
